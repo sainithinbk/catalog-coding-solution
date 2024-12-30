@@ -1,0 +1,2 @@
+secret (c) for test case 1: 3
+secret (c) for test case 2: 79836264050688
